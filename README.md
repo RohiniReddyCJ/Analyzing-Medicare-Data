@@ -1,6 +1,6 @@
 # Analyzing-Medicare-Data
-Getting data from data.gov and analyzing it using SQLite.
-Getting data from the internet using python code.
+Getting data from internet and analyzing it using SQLite and coding using python.
+Getting data from the data.gov using python code.
 Cleansing and pre-processing the csv files and data in the files and making it fit to analyze.
 Creating a database and loading the csv files as tables into the database using SQLite and Pandas.
 Writing SQL queries to analyze and query the database.
